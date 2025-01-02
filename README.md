@@ -1,0 +1,1 @@
+# jetpack-512-icin-gerekli-dosyalar
